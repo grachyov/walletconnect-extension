@@ -1,12 +1,7 @@
 {
-    "name": "WalletConnect Bridge",
+    "name": "Encrypted-Ink-Safari",
     "version": "1.0",
-    "description": "Use WalletConnect-compatible wallets (like Rainbow), even when the sites only support MetaMask.",
-    "icons": {
-        "128": "img/icon-128.png",
-        "48": "img/icon-48.png",
-        "16": "img/icon-16.png"
-    },
+    "description": "Start Encrypted Ink, even from websites without WalletConnect support.",
     "content_scripts": [
         {
             "matches": ["http://*/*", "https://*/*"],

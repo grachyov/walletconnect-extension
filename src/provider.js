@@ -11,10 +11,7 @@ const fallbackProvider = provider([
 
 fallbackProvider.enable = () => {
   window.ethereum = wcProvider;
-
   return wcProvider.enable();
 };
 
 window.ethereum = fallbackProvider;
-
-// window.ethereum =

@@ -1,12 +1,8 @@
-# WalletConnect Bridge
+# Encrypted-Ink-Safari
 
-> Use your WalletConnect wallet on sites where only MetaMask is supported.
+> Start Encrypted Ink, even from websites without WalletConnect support.
 
 This extension injects the WalletConnect web3 provider similarly to how MetaMask does it, allowing you to connect a WalletConnect wallet on pages where only injected providers are supported.
-
-## Installation
-
-I've submitted this extension to the Chrome Web Store, and am planning to submit it to the App Store as well (which should allow you to use it from your iPhone/iPad with iOS 15!) once I figure out the best way of doing that. Once they approve it, I'll post the links here.
 
 ## Development
 
